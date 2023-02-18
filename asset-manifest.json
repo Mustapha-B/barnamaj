@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barnamaj/static/css/main.fc735276.css",
+    "main.js": "/barnamaj/static/js/main.b467ce6a.js",
+    "static/js/787.a3221087.chunk.js": "/barnamaj/static/js/787.a3221087.chunk.js",
+    "index.html": "/barnamaj/index.html",
+    "main.fc735276.css.map": "/barnamaj/static/css/main.fc735276.css.map",
+    "main.b467ce6a.js.map": "/barnamaj/static/js/main.b467ce6a.js.map",
+    "787.a3221087.chunk.js.map": "/barnamaj/static/js/787.a3221087.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc735276.css",
+    "static/js/main.b467ce6a.js"
+  ]
+}
